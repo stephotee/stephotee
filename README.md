@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Stephen 👋
+
+#I'm data scientist and entrepreneur.
 
 <!--
 **stephotee/stephotee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
