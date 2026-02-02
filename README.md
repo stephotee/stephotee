@@ -3,11 +3,7 @@
 📊 **Data Scientist turned founder / COO / CDO**
 
 ## Interested in
-> Data Science
-> Dataviz & Information Design
-> AI and Machine Learning
-> Research
-> Lleadership & People Management
+> Data Science | Dataviz & Information Design | AI and Machine Learning | Research | Leadership & People Management
 
 ## Where To Find Me
 
