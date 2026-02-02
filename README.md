@@ -1,18 +1,13 @@
 ## Hi, I'm Stephen 👋
 
-#I'm data scientist and entrepreneur.
+I'm data scientist and entrepreneur.
 
-<!--
-**stephotee/stephotee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Where To Find Me
 
-Here are some ideas to get you started:
+- 📝 **[Blog](https://analythical.com/)** - Where I write about all things data
+- 👥 **[LinkedIn](https://www.linkedin.com/in/tracystephen/)** - Connect with me on LI
+- ▶️ **[YouTube](https://www.youtube.com/@stephentracy)** - Where I talk about all things data
+- 🎓 **[Courses](https://learn.analythical.com/)** - Check out my courses
+- 📖 **[Udemy](https://www.udemy.com/user/stephentracy/)** - Udemy instructor profile
+- 🖥️ **[Miroverse Profile](https://miro.com/miroverse/profile/stephen-tracy/)** - Check out my Miro templates
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
