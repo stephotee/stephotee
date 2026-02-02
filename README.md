@@ -1,7 +1,11 @@
 ## Hi, I'm Stephen Tracy 👋
 
 📊 **Data Scientist** | 🔨 **Entrepreneur** | 👨‍🏫 **Educator**
+
 I make things with data. Data scientist turned founder / COO / CDO
+
+## Interested in
+> Data science, dataviz and information design, AI / ML, research, leadership and people management
 
 ## Where To Find Me
 
